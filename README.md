@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Séries Temporais</h1>
 
-<p id="description">Projeto de estudos sobre séries temporais baseado nos exercicios do curso Fromação Ciêntista de dados. A base de dados utilizada mostra a evolução no número de passageiros de avião no período de 1950 a 1960.</p>
+<p id="description">Projeto de estudos sobre séries temporais baseado nos exercicios do curso <a href="https://www.eia.ai/view/courses/formacao-cientista-de-dados-com-python-e-r">Formação Cientista de Dados da Escola de Inteligência Artificial</a> A base de dados utilizada mostra a evolução no número de passageiros de avião no período de 1950 a 1960.</p>
 
   
   
